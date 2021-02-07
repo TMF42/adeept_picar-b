@@ -69,7 +69,7 @@ class webapp:
         camera.colorFindSet(H, S, V)
 
     def thread(self):
-        port = 6000
+        port = 5000
         app.run(host='0.0.0.0', port=int(port or 5000), threaded=True)
 
     def startthread(self):
