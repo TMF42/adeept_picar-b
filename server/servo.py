@@ -14,9 +14,16 @@ import RGB
 '''
 change this form 1 to 0 to reverse servos
 '''
-pwm0_direction = -1
-pwm1_direction = 1
-pwm2_direction = 1
+
+mirror = 1
+if mirror:
+	pwm0_direction = 1
+	pwm1_direction = -1
+	pwm2_direction = -1
+else:
+	pwm0_direction = -1
+	pwm1_direction = 1
+	pwm2_direction = 1
 
 pwm = Adafruit_PCA9685.PCA9685()
 pwm.set_pwm_freq(50)
