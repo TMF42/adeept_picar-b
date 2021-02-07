@@ -1,12 +1,12 @@
-# Adeept 4WD Smart Car Kit for Raspberry Pi PiCar-B
+# TMF42 Smart Car based on Adeept 4WD Smart Car Kit for Raspberry Pi PiCar-B
 
-## About This Product
+## Setup 
+ * Follow the setup guides of Adeept Smart Car Kit "Pi-Car B"
+ * Clone this repository on $HOME of the Raspberry
+ * run `sudo python3 $HOME/adeept_picar-b/setup.py`
 
-## About Adeept
+## Usage
+ * Connect via a browser to `http://{IP_of_Raspberry}:5000`
 
-Adeept is a technical service team of open source software and hardware. Dedicated to applying the Internet and the latest industrial technology in open source area, we strive to provide best hardware support and software service for general makers and electronic enthusiasts around the world. We aim to create infinite possibilities with sharing. No matter what field you are in, we can lead you into the electronic world and bring your ideas into reality.
-
-## Contact Info
- Technical Support:  support@adeept.com<br/>
- Customer Service:   service@adeept.com<br/>
- Website:            www.adeept.com<br/>
+## Original Repository
+ https://github.com/adeept/adeept_picar-b <br/>
