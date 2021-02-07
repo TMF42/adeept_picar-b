@@ -1,4 +1,4 @@
-# TMF Smart Car based on Adeept 4WD Smart Car Kit for Raspberry Pi PiCar-B
+# TMF42 Smart Car based on Adeept 4WD Smart Car Kit for Raspberry Pi PiCar-B
 
 ## Setup 
  * Follow the setup guides of Adeept Smart Car Kit "Pi-Car B"
