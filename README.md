@@ -6,7 +6,7 @@
  * run `sudo python3 $HOME/adeept_picar-b/setup.py`
 
 ## Usage
- * Connect to <http://{IP of Raspberry}:5000>
+ * Connect via a browser to http://{IP_of_Raspberry}:5000
 
 ## Original Repository
  https://github.com/adeept/adeept_picar-b <br/>
